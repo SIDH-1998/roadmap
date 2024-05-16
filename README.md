@@ -2,7 +2,7 @@
 
 O objetivo desse repositório é catalogar os conteúdos existentes na internet sobre Flutter e concatenar em uma espécie de "roadmap" para auxiliar os iniciantes.
 
-# Escrever códigos
+# Escrever códigos....
 
 É recomendado assistir [ESTE VÍDEO](https://www.youtube.com/watch?v=BTENKdRVS2U) antes de iniciar.
 
